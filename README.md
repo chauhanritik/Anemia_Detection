@@ -67,7 +67,8 @@ To accomplish this,I have completed all the activities listed below:
 
 ## Demonstration Video Link
 Click on the link below to understand the project in better way along with code files and live demo illustration video.
-<iframe src="https://drive.google.com/file/d/1_5e8BJ2WktINChN7seZWO-T0wTYPKdZX/preview" width="640" height="480" allow="autoplay"></iframe>
+https://drive.google.com/file/d/1_5e8BJ2WktINChN7seZWO-T0wTYPKdZX/preview
+
 
 
 
